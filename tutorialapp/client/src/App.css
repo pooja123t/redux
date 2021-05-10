@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+	text-align: center;
+	margin: auto;
+  background-color: #b5fac7;
+}
+.pages{
+  color:#316685;
+  text-align: center;
+  font-size: 1rem;
+}
+.button{
+	float: left;
+  margin-left: 400px;
+}
+.divtag{
+margin: auto;
+text-align: center;
+justify-content: center;
+align-items: center;
+
+}
+h2{
+
+	float: left;
+margin-left: 400px;
+}
+.table{
+
+text-align: center;
+margin-bottom:5px;
+margin-top: 30px;
+margin-left: 400px ;
+}
+.p2{
+  border: 2px solid gray;
+float: left;	
+width: 15%;
+margin-top: 50px;
+}
+.p1{
+ margin-top: 8px;
+float: left;  
+width: 50%;
+
+}
+form{
+	margin-top: 10px;
+}
